@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: left;
+    padding: 10vh 2rem 0 2rem;
+    min-width: 100%;
+    background-color: white;
+}
+.mediumContainer{
+    width: 35vw;
+    margin-right: 6rem;
+    z-index: 1;
+}
+#position{
+    z-index: 3;
+}

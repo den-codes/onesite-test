@@ -1,0 +1,11 @@
+.container{
+    width: 200px;
+}
+.list{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    list-style: none;
+    padding: 0 2rem;
+    cursor: pointer;
+}
